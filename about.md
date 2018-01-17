@@ -10,7 +10,7 @@ Hi I'm some dude that blogs on the internet about infosec.  This is primarily a 
 
 Opinions are my own and not that of my employer. :)
 
-Also check out the ![README.md] for additional information regarding disclaimer/licensing.
+Also check out the [README](https://its-youmu.github.io/readme/) for additional information regarding disclaimer/licensing.
 
 ### Contact me
 
