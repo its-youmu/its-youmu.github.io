@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi I'm some dude that blogs on the internet about infosec.  This is primarily a learning blog, which means it's how I solved an issue, not how to solve the issue.  Let me know if there's anything to update.
 
-### More Information
+### Some More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Opinions are my own and not that of my employer. :)
+
+Also check out the ![README.md] for additional information regarding disclaimer/licensing.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Depending on the request/question/comment, I'm easiest to reach either via opening an issue or [via twitter](https://twitter.com/youmusec).
