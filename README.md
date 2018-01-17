@@ -1,7 +1,10 @@
 ---
 layout: post
 title: disclaimers and licensing
+permalink: /readme/
 ---
+
+Best viewed 
 
 **Please read fully before reading or utilizing any materials on this site/github**
 
