@@ -9,7 +9,7 @@ name: Augment
 description: Infosec Junkie
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: {{ site.baseurl }}/images/self-logo.png
+avatar: https://cdn.rawgit.com/its-youmu/its-youmu.github.io/ab9147b9/images/self-logo.jpg
 
 #
 # Flags below are optional
