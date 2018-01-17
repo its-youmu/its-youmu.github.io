@@ -4,7 +4,7 @@ title: disclaimers and licensing
 permalink: /readme/
 ---
 
-Best viewed 
+Best viewed [here](https://its-youmu.github.io/readme)
 
 **Please read fully before reading or utilizing any materials on this site/github**
 
