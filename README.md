@@ -20,6 +20,7 @@ You should [open up an issue](https://github.com/its-youmu/its-youmu.github.io/i
 The following directories and their contents may have unique licensing:
 
 > _posts/
+
 > images/
 
 * Any content and items forked from the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) are under the general MIT license
