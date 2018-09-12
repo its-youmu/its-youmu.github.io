@@ -1,6 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+title: Passwords n stuff
 ---
+
 # All about passwords! (and user accounts a bit too!)
 
 This post is specifically dedicated to passwords! (and user accounts a bit!)
